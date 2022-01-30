@@ -5,7 +5,6 @@ public class MainClass {
 	public static void main(String[] args) {
 		BankOperation bankOperation = new BankOperation();
 		Scanner sc = new Scanner(System.in);
-		
 		//bankOperation.depositMoney();
 
 		System.out.println("Enter cardnumber");
